@@ -1,0 +1,150 @@
+cv:
+  name: Kevin Phat Tieu
+  label: Ph.D. Student in Computer Engineering
+  email: kevin.tieu@tamu.edu
+  location: College Station, Texas
+  image: ""
+  summary: Researcher and engineer applying large language models to hardware design, security, and electronic design automation.
+
+  social_networks:
+    - network: GitHub
+      username: kevin-tieu
+    - network: LinkedIn
+      username: kevin-phat-tieu
+    - network: Google Scholar
+      username: qgdKcT4AAAAJ
+
+  sections:
+    Education:
+      - institution: Texas A&M University
+        location: College Station, Texas
+        area: Computer Engineering
+        studyType: Ph.D.
+        start_date: 2024-08
+        end_date: present
+        score: "GPA: 3.75"
+        courses: Machine Learning, LLM Programming, Symbolic AI, Formal Verification
+        highlights:
+          - Focused on large language models in hardware design and security.
+          - Advised by Dr. Jeyavijayan Rajendran.
+
+      - institution: University of Houston
+        location: Houston, Texas
+        area: Computer Engineering
+        studyType: B.S., magna cum laude
+        start_date: 2019-08
+        end_date: 2022-05
+
+    Experience:
+      - company: Secure-and-Trustworthy-Hardware (SETH) Lab, Texas A&M University
+        position: Graduate Research Assistant
+        location: College Station, Texas
+        start_date: 2024-08
+        end_date: present
+        summary: Conducting research with Dr. Jeyavijayan Rajendran on LLMs and generative AI for hardware design and security.
+        highlights:
+          - Develop frameworks for HDL generation and assistant agents that accelerate RTL design.
+          - Apply LLMs to hardware-security vulnerability detection and mitigation.
+
+      - company: Synopsys
+        position: Technical Engineering Intern
+        location: Sunnyvale, California
+        start_date: 2025-08
+        end_date: 2025-11
+        highlights:
+          - Developed LLM-powered assistants for hardware-design workflows.
+          - Built a scalable semantic code-search system for large RTL codebases using GraphRAG and knowledge graphs.
+
+      - company: University of Houston
+        position: Research Assistant
+        location: Houston, Texas
+        start_date: 2023-08
+        end_date: 2024-07
+        highlights:
+          - Automated experimental-data post-processing with MATLAB and Python, reducing manual work by 60%.
+          - Developed reusable automation and data pipelines for solid-state battery-recycling research.
+
+      - company: Fossil Group
+        position: Embedded Systems Intern
+        location: Ho Chi Minh City, Vietnam
+        start_date: 2022-10
+        end_date: 2023-06
+        highlights:
+          - Developed and evaluated RTOS-based smartwatch firmware in C and Python.
+          - Implemented drivers and communication workflows for barometric sensors, touchscreens, USB, UART, and I2C.
+
+      - company: University of Houston
+        position: Teaching Assistant, Digital Logic Design
+        location: Houston, Texas
+        start_date: 2021-01
+        end_date: 2022-05
+        highlights:
+          - Assisted instruction and mentored more than 70 students each semester.
+
+    Awards:
+      - title: Third Place Team, Global CogniChip Hackathon
+        date: 2026-02
+      - title: First Place Team, LLM Track, ICLAD GenAI Chip Hackathon
+        date: 2025-06
+      - title: DAC Young Fellow
+        awarder: ACM/IEEE Design Automation Conference
+        date: 2025-06
+      - title: Graduate Research Fellowship
+        awarder: University of Houston
+        date: 2023-08
+      - title: Cullen College of Engineering Dean's List
+        awarder: University of Houston
+        date: 2019-12
+
+    Publications:
+      - title: "Tracing the Logic: Evaluating LLM Reasoning Paths in RTL Generation"
+        authors:
+          - Matthew DeLorenzo
+          - Kevin Tieu
+          - Jeyavijayan Rajendran
+        publisher: IEEE International Conference on Computer Design (ICCD)
+        releaseDate: 2025-11
+        url: https://doi.org/10.1109/ICCD65941.2025.00115
+
+      - title: Watermarking LLMs — Challenges and Opportunities in Electronic Design Automation
+        authors:
+          - Matthew DeLorenzo
+          - Kevin Tieu
+          - Chen Chen
+          - Vasudev Gohil
+          - Jeyavijayan Rajendran
+        publisher: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
+        releaseDate: 2025
+
+      - title: "Abstractions-of-Thought: Intermediate Representations for LLM Reasoning in Hardware Design"
+        authors:
+          - Matthew DeLorenzo
+          - Kevin Tieu
+          - Prithwish Jana
+          - Piyush Jha
+          - Dileep Kalathil
+          - Vijay Ganesh
+          - Jeyavijayan Rajendran
+        publisher: arXiv preprint arXiv:2505.15873
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2505.15873
+
+      - title: "Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs"
+        authors:
+          - Sam Bush
+          - Matthew DeLorenzo
+          - Kevin Tieu
+          - Jeyavijayan Rajendran
+        publisher: ACM/IEEE Design Automation Conference (DAC)
+        releaseDate: 2025
+
+    Skills:
+      - name: Hardware design
+        level: Advanced
+        keywords: Verilog, SystemVerilog, RTL design, Formal Verification, Design Compiler, Yosys, JasperGold
+      - name: AI and software
+        level: Advanced
+        keywords: Python, C, C++, MATLAB, JavaScript, Machine Learning, LLM Fine-tuning, Reinforcement Learning, Agentic AI
+      - name: Systems and collaboration
+        level: Advanced
+        keywords: Linux, Git, Gerrit, Jira, Confluence, RTOS, ROS 2, I2C, USB, Bluetooth
