@@ -1,3 +1,8 @@
-github_username: kevin-tieu
-linkedin_username: kevin-phat-tieu
+custom_social:
+  logo: /assets/img/tamu-logo-white.png
+  title: Secure-and-Trustworthy Hardware Lab
+  url: https://seth.engr.tamu.edu/
 scholar_userid: qgdKcT4AAAAJ
+email: kevin.tieu@tamu.edu
+linkedin_username: kevin-phat-tieu
+github_username: kevin-tieu

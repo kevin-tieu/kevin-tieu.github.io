@@ -4,7 +4,7 @@ cv:
   email: kevin.tieu@tamu.edu
   location: College Station, Texas
   image: ""
-  summary: Researcher and engineer applying large language models to hardware design, security, and electronic design automation.
+  summary: I am a computer engineering Ph.D. student whose interest lies in applying large language models (LLMs) to hardware design, security, and electronic design automation (EDA).
 
   social_networks:
     - network: GitHub
@@ -18,22 +18,19 @@ cv:
     Education:
       - institution: Texas A&M University
         location: College Station, Texas
-        area: Computer Engineering
-        studyType: Ph.D.
+        studyType: Ph.D. Computer Engineering
         start_date: 2024-08
         end_date: present
         score: "GPA: 3.75"
         courses: Machine Learning, LLM Programming, Symbolic AI, Formal Verification
         highlights:
           - Focused on large language models in hardware design and security.
-          - Advised by Dr. Jeyavijayan Rajendran.
+          - Advised by Prof. Jeyavijayan "JV" Rajendran.
 
       - institution: University of Houston
         location: Houston, Texas
-        area: Computer Engineering
-        studyType: B.S., magna cum laude
-        start_date: 2019-08
-        end_date: 2022-05
+        studyType: B.S. Computer Engineering
+        score: "magna cum laude"
 
     Experience:
       - company: Secure-and-Trustworthy-Hardware (SETH) Lab, Texas A&M University
@@ -82,6 +79,9 @@ cv:
           - Assisted instruction and mentored more than 70 students each semester.
 
     Awards:
+      - title: DAC Young Fellow
+        awarder: ACM/IEEE Design Automation Conference
+        date: 2026-07
       - title: Third Place Team, Global CogniChip Hackathon
         date: 2026-02
       - title: First Place Team, LLM Track, ICLAD GenAI Chip Hackathon
@@ -92,9 +92,9 @@ cv:
       - title: Graduate Research Fellowship
         awarder: University of Houston
         date: 2023-08
-      - title: Cullen College of Engineering Dean's List
+      - title: Excellent Transfer Scholarship
         awarder: University of Houston
-        date: 2019-12
+        date: 2019-08
 
     Publications:
       - title: "Tracing the Logic: Evaluating LLM Reasoning Paths in RTL Generation"

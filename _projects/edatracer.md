@@ -6,4 +6,4 @@ importance: 1
 category: work
 ---
 
-I study methods for extracting useful signals from noisy EDA logs while preserving the sequence of events and the evidence behind each conclusion.
+<!-- I study methods for extracting useful signals from noisy EDA logs while preserving the sequence of events and the evidence behind each conclusion. -->
