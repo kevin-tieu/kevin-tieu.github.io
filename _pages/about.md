@@ -33,4 +33,4 @@ My research focuses on large language models for hardware design and security. I
 
 Previously, I developed LLM-powered hardware-design assistants at Synopsys, automation pipelines for experimental data at the University of Houston, and RTOS-based smartwatch firmware at Fossil Group.
 
-See my [CV](/cv/), [publications](/publications/), [projects](/projects/), [Google Scholar](https://scholar.google.com/citations?user=qgdKcT4AAAAJ), [LinkedIn](https://www.linkedin.com/in/kevin-phat-tieu/), and [GitHub](https://github.com/kevin-tieu).
+See my [CV](/cv/), [publications](/publications/), [projects](/projects/), [pyslang Python reference](https://kevin-tieu.github.io/pyslang-python-reference/), [Google Scholar](https://scholar.google.com/citations?user=qgdKcT4AAAAJ), [LinkedIn](https://www.linkedin.com/in/kevin-phat-tieu/), and [GitHub](https://github.com/kevin-tieu).
